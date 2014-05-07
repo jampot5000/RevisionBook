@@ -1,4 +1,4 @@
 git add *
-git commit -m "Updated"
+git commit -a -m "Updated"
 git push
 grunt publish
