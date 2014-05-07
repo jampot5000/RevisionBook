@@ -1,9 +1,16 @@
-Revision Book
+Computer System Essentials
 ============
-This is a revision booklet for:
+Done:
+1.Nothing
+Started:
+1. IRQs
+1. Printers
+1. RAM
+1. Operating Systems
+Not Started:
+1. Everything else.
 
-**CO1555 Computer System Essentials**
 
 
-**CO0000 Systems Analysis and Design**
+
 
