@@ -1,9 +1,10 @@
 CACHE MANIFEST
-# Revision 1399501482706
+# Revision 1399502164441
 
 CACHE:
 index.html
 cse/printers/README.html
+cse/printers/inkjet.html
 gitbook/app.js
 gitbook/fonts/anonymouspro/400.woff
 gitbook/fonts/anonymouspro/400i.woff
