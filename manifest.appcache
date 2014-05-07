@@ -1,11 +1,9 @@
 CACHE MANIFEST
-# Revision 1399499924278
+# Revision 1399500720056
 
 CACHE:
 index.html
-cse/README.html
 cse/printers/README.html
-sad/README.html
 gitbook/app.js
 gitbook/fonts/anonymouspro/400.woff
 gitbook/fonts/anonymouspro/400i.woff
